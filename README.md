@@ -217,4 +217,4 @@ Contributions, bug reports, and suggestions are welcome! Please open an issue or
 
 ## Credits
 
-Created by SleepyYui for verifying refurbished drive authenticity.
+Created by SleepyYui using Claude 4.5 for verifying refurbished drive authenticity.
